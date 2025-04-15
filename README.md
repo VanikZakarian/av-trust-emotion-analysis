@@ -35,7 +35,7 @@ Data was collected across two streams:
 - `emotion_2024_physiological_data.ipynb` — Analysis of heart rate and EDA
 - `Emotion_Trust_2024_subjective_data.ipynb` — Analysis of participant surveys
 
-## 🛠 Tools Used
+## Tools Used
 
 - Python
 - Pandas, Seaborn, Matplotlib
